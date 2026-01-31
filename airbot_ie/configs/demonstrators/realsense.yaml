@@ -16,7 +16,7 @@ demonstrator:
           height: 480
           width: 640
           enable_depth: true
-          align_depth: true
+          align_depth: false
           fps: 30
       roles:
         - o
